@@ -1,4 +1,13 @@
-# Free newsletters all can learn from 📚
+<h1 align="center">   Free newsletters all can learn from 📚 </h1>
+
+<div align="center">
+<a href="https://www.patreon.com/learnanything">
+		<img src="https://img.shields.io/badge/Say%20Thanks-💗-ff69b4.svg">
+	</a>
+	<a href="https://github.com/learn-anything/newsletters/blob/master/LICENSE">
+		<img src="https://img.shields.io/pypi/l/pipenv.svg">
+	</a>
+</div>
 
 This is an extension to [Learn Anything Search Engine](https://learn-anything.xyz/) that lists all the interesting newsletters one can subscribe to and read to learn new things and discover new insights. 🔭
 
@@ -10,7 +19,7 @@ Pull requests are welcome. Thank you. 💙
 - [awesome newsletters](https://github.com/vredniy/awesome-newsletters)
 - [weekly newsletters](https://github.com/webpro/awesome-newsletters)
 
-# Newsletters
+<h1 align="center">   Newsletters </h1>
 
 # ai
 
