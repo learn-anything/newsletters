@@ -29,7 +29,7 @@ Pull requests are welcome. Thank you. 💙
 
 ### Curated
 - [quora digest](https://www.quora.com/topic/Quora-Weekly-Digest)
-  quality depends on the topics you follow
+	- quality depends on the topics you follow
 - [useful linter web](http://usefulinterweb.com/)
 
 ### Lua
