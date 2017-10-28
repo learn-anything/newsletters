@@ -1,7 +1,6 @@
 # Free newsletters all can learn from 📮 [![Thanks](https://img.shields.io/badge/Say%20Thanks-💗-ff69b4.svg)](https://www.patreon.com/learnanything)
-
 ## Description 📕
-Here is a curated list of all the interesting newsletters one can subscribe to and read to learn new things and discover new insights. 🔭
+Here is a curated list of all the interesting newsletters one can subscribe to and read to learn new things and discover new insights. 
 
 Pull requests are welcome. Thank you. 💙
 
@@ -11,34 +10,34 @@ Pull requests are welcome. Thank you. 💙
 
 ## Newsletters
 ### AI
-- [the daily ai 📮](http://thedaily.ai/)
-- [import ai 📮](https://jack-clark.net/import-ai/)
-- [the wild week in ai 📮](https://www.getrevue.co/profile/wildml)
+- [the daily ai](http://thedaily.ai/)
+- [import ai](https://jack-clark.net/import-ai/)
+- [the wild week in ai](https://www.getrevue.co/profile/wildml)
 
 ### Rust
-- [this week in rust 📮](https://this-week-in-rust.org/)
+- [this week in rust](https://this-week-in-rust.org/)
 
 ### Linux
-- [cron.weekly 📮](https://www.cronweekly.com/)
-- [nixOS weekly 📮](http://weekly.nixos.org/2017/01-we-need-to-start-somewhere.html)
+- [cron.weekly](https://www.cronweekly.com/)
+- [nixOS weekly](http://weekly.nixos.org/2017/01-we-need-to-start-somewhere.html)
 
 ### Python
-- [weekly python 📮](http://importpython.com/newsletter/)
+- [weekly python](http://importpython.com/newsletter/)
 
 ### Startups
-- [startup curated 📮](https://startup.curated.co/)
+- [startup curated](https://startup.curated.co/)
 
 ### Curated
-- [quora digest 📮](https://www.quora.com/topic/Quora-Weekly-Digest)
+- [quora digest](https://www.quora.com/topic/Quora-Weekly-Digest)
   quality depends on the topics you follow
-- [useful linter web 📮](http://usefulinterweb.com/)
+- [useful linter web](http://usefulinterweb.com/)
 
 ### Lua
-- [lua digest 📮](http://luadigest.immortalin.com/)
+- [lua digest](http://luadigest.immortalin.com/)
 
 ### Knowledge
-- [corbie 📮](http://www.thecorbie.com/)
+- [corbie](http://www.thecorbie.com/)
 
 ### Swift
-- [this week in swift 📮](https://swiftnews.curated.co/issues/124)
-- [swift weekly brief 📮](https://swiftweekly.github.io/issue-61/)
+- [this week in swift](https://swiftnews.curated.co/issues/124)
+- [swift weekly brief](https://swiftweekly.github.io/issue-61/)
