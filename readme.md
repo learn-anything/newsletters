@@ -1,12 +1,12 @@
-# Free newsletters all can learn from 📮 [![Thanks](https://img.shields.io/badge/Say%20Thanks-💗-ff69b4.svg)](https://www.patreon.com/learnanything)
-## Description 📕
-Here is a curated list of all the interesting newsletters one can subscribe to and read to learn new things and discover new insights. 
+# Interesting Newsletters [![Lists](https://img.shields.io/badge/More%20Lists-🔖-blue.svg)](https://github.com/learn-anything/maps#explore-and-improve-our-curated-lists) [![Thanks](https://img.shields.io/badge/Say%20Thanks-💗-ff69b4.svg)](https://www.patreon.com/learnanything)
 
-Pull requests are welcome. Thank you. 💙
+This is a curated list of all the interesting newsletters.
 
-### Related websites / repositories 
-- [awesome newsletters](https://github.com/vredniy/awesome-newsletters)
-- [weekly newsletters](https://github.com/webpro/awesome-newsletters)
+Pull requests are welcome. Thank you. 💜
+
+## Related websites / repositories 
+- [Awesome newsletters](https://github.com/vredniy/awesome-newsletters)
+- [Weekly newsletters](https://github.com/webpro/awesome-newsletters)
 
 ## Newsletters
 ### AI
@@ -41,3 +41,6 @@ Pull requests are welcome. Thank you. 💙
 ### Swift
 - [this week in swift](https://swiftnews.curated.co/issues/124)
 - [swift weekly brief](https://swiftweekly.github.io/issue-61/)
+
+## Contribute 
+If you found a newsletter that you really like, feel free to add it to this list. Just choose an appropriate category for it and add an appropriate description and make the [Pull Request](https://help.github.com/articles/about-pull-requests/).
