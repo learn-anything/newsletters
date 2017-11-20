@@ -22,7 +22,8 @@ Pull requests are welcome. Thank you. 💜
 - [nixOS weekly](http://weekly.nixos.org/2017/01-we-need-to-start-somewhere.html)
 
 ### Python
-- [weekly python](http://importpython.com/newsletter/)
+- [Import python](http://importpython.com/newsletter/)
+- [Python weekly](https://www.pythonweekly.com/)
 
 ### Startups
 - [startup curated](https://startup.curated.co/)
