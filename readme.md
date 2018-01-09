@@ -15,7 +15,7 @@
 - [Related](#related)
 
 ## AI
-- [The daily ai](http://thedaily.ai/)
+- [The daily AI](http://thedaily.ai/)
 - [Import AI](https://jack-clark.net/import-ai/)
 - [The wild week in AI](https://www.getrevue.co/profile/wildml)
 
