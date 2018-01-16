@@ -1,5 +1,4 @@
 # Interesting Newsletters [![Lists](https://img.shields.io/badge/More%20Lists-🔖-blue.svg)](https://github.com/learn-anything/learn-anything/wiki/Curated-Lists) [![Thanks](https://img.shields.io/badge/Say%20Thanks-💗-ff69b4.svg)](https://www.patreon.com/learnanything)
-
 [Suggestions](../../issues/) and pull requests are highly encouraged! *Please read the [contribution guidelines](contributing.md) before contributing.*
 
 ## Contents
@@ -46,6 +45,9 @@
 ## Swift
 - [This week in Swift](https://swiftnews.curated.co/issues/124)
 - [Swift weekly brief](https://swiftweekly.github.io/issue-61/)
+
+## LLVM
+- [LLVM weekly](http://llvmweekly.org)
 
 ## Related
 - [Awesome newsletters](https://github.com/vredniy/awesome-newsletters)
