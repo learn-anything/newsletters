@@ -1,5 +1,5 @@
-# Interesting Newsletters [![Lists](https://img.shields.io/badge/More%20Lists-📒-green.svg)](https://github.com/learn-anything/curated-lists#readme)
-*Please read the [contribution guidelines](contributing.md/#contribution-guidelines#readme) before contributing.*
+# Interesting Newsletters [![Lists](https://img.shields.io/badge/More%20Lists-📔-blue.svg)](https://github.com/learn-anything/curated-lists#readme)
+*Please read the [contribution guidelines](contributing.md#readme) before contributing.*
 
 - [AI](#ai)
 - [Rust](#rust)
@@ -54,7 +54,7 @@
 - [Weekly newsletters](https://github.com/webpro/awesome-newsletters)
 
 ## Contributing
-See [contribution guidelines](contributing.md/#contribution-guidelines#readme).
+See [contribution guidelines](contributing.md#readme).
 
 ## More lists 📝
 For more lists like this, see [here](https://github.com/learn-anything/curated-lists#readme).
