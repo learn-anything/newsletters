@@ -51,8 +51,8 @@
 - [LLVM weekly](http://llvmweekly.org)
 
 ## Related
-- [Awesome newsletters](https://github.com/vredniy/awesome-newsletters)
-- [Weekly newsletters](https://github.com/webpro/awesome-newsletters)
+- [Awesome newsletters](https://github.com/vredniy/awesome-newsletters#readme)
+- [Weekly newsletters](https://github.com/webpro/awesome-newsletters#readme)
 
 ## Contributing
 See [contribution guidelines](contributing.md#readme).
