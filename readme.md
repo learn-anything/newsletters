@@ -53,7 +53,7 @@
 ## Related
 - [Awesome newsletters](https://github.com/vredniy/awesome-newsletters#readme)
 - [Weekly newsletters](https://github.com/webpro/awesome-newsletters#readme)
-- [Newsletter Hunt](https://newsletterhunt.com/)
+- [Newsletter Hunt](https://newsletterhunt.com/) - RSS like feed for newsletters.
 
 ## Contributing
 See [contribution guidelines](contributing.md#readme).
