@@ -3,6 +3,7 @@
 
 ##### Contents
 - [AI](#ai)
+- [Go](#go)
 - [Rust](#rust)
 - [Linux](#linux)
 - [Python](#python)
@@ -18,6 +19,9 @@
 - [The daily AI](http://thedaily.ai/)
 - [Import AI](https://jack-clark.net/import-ai/)
 - [The wild week in AI](https://www.getrevue.co/profile/wildml)
+
+## Go
+- [Golang Weekly](https://golangweekly.com) - Weekly newsletter about the Go programming language. ([Archive](https://golangweekly.com/issues))
 
 ## Rust
 - [This week in rust](https://this-week-in-rust.org/)
