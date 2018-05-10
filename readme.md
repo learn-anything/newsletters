@@ -5,6 +5,7 @@
 - [AI](#ai)
 - [Go](#go)
 - [Rust](#rust)
+- [Haskell](#haskell)
 - [Linux](#linux)
 - [Python](#python)
 - [Startups](#startups)
@@ -28,6 +29,9 @@
 
 ## Rust
 - [This week in rust](https://this-week-in-rust.org/)
+
+## Haskell
+- [Haskell Weekly](https://haskellweekly.news/) - Free email newsletter about the Haskell programming language.
 
 ## Linux
 - [Cron.weekly](https://www.cronweekly.com/)
