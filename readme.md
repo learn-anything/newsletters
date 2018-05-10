@@ -8,17 +8,20 @@
 - [Linux](#linux)
 - [Python](#python)
 - [Startups](#startups)
-- [Curated](#curated)
 - [Lua](#lua)
 - [Knowledge](#knowledge)
 - [Swift](#swift)
 - [LLVM](#llvm)
+- [Curated](#curated)
 - [Related](#related)
 
 ## AI
 - [The daily AI](http://thedaily.ai/)
 - [Import AI](https://jack-clark.net/import-ai/)
 - [The wild week in AI](https://www.getrevue.co/profile/wildml)
+
+## Programming
+- [DiscoverDev](https://www.discoverdev.io/) - Daily digest of the best engineering blogs from across the web. ([Archive](https://www.discoverdev.io/archive))
 
 ## Go
 - [Golang Weekly](https://golangweekly.com) - Weekly newsletter about the Go programming language. ([Archive](https://golangweekly.com/issues))
@@ -38,10 +41,6 @@
 - [Startup curated](https://startup.curated.co/)
 - [AngelList Weekly](https://angel.co/newsletters)
 
-## Curated
-- [Quora digest](https://www.quora.com/topic/Quora-Weekly-Digest) - Quality depends on the topics you follow.
-- [Useful linter web](http://usefulinterweb.com/)
-
 ## Lua
 - [Lua digest](http://luadigest.immortalin.com/)
 
@@ -54,6 +53,10 @@
 
 ## LLVM
 - [LLVM weekly](http://llvmweekly.org)
+
+## Curated
+- [Quora digest](https://www.quora.com/topic/Quora-Weekly-Digest) - Quality depends on the topics you follow.
+- [Useful linter web](http://usefulinterweb.com/)
 
 ## Related
 - [Awesome newsletters](https://github.com/vredniy/awesome-newsletters#readme)
