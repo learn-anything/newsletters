@@ -54,6 +54,7 @@
 
 ## Knowledge
 - [Corbie](http://www.thecorbie.com/)
+- [Gwern.net monthly newsletter](https://tinyletter.com/gwern)
 
 ## Swift
 - [This week in Swift](https://swiftnews.curated.co/issues/124)
