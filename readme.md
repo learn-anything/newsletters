@@ -31,7 +31,8 @@
 - [Python weekly](https://www.pythonweekly.com/)
 
 ## Startups
-- [startup curated](https://startup.curated.co/)
+- [Startup curated](https://startup.curated.co/)
+- [AngelList Weekly](https://angel.co/newsletters)
 
 ## Curated
 - [Quora digest](https://www.quora.com/topic/Quora-Weekly-Digest) - Quality depends on the topics you follow.
