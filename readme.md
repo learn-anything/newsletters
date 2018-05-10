@@ -6,6 +6,7 @@
 - [Go](#go)
 - [Rust](#rust)
 - [Haskell](#haskell)
+- [iOS](#ios)
 - [Linux](#linux)
 - [Python](#python)
 - [Startups](#startups)
@@ -32,6 +33,9 @@
 
 ## Haskell
 - [Haskell Weekly](https://haskellweekly.news/) - Free email newsletter about the Haskell programming language.
+
+## iOS
+- [iOS Goodies](http://ios-goodies.com/) - Weekly iOS newsletter.
 
 ## Linux
 - [Cron.weekly](https://www.cronweekly.com/)
