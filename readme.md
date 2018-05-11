@@ -60,6 +60,9 @@
 - [This week in Swift](https://swiftnews.curated.co/issues/124)
 - [Swift weekly brief](https://swiftweekly.github.io/issue-61/)
 
+## Web
+- [Pony Foo weekly](https://ponyfoo.com/weekly) - Newsletter discussing interesting and trending topics around the web platform. ([Archive](https://ponyfoo.com/weekly/history))
+
 ## LLVM
 - [LLVM weekly](http://llvmweekly.org)
 
