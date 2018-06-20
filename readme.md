@@ -15,6 +15,7 @@
 - [Swift](#swift)
 - [Web](#web)
 - [LLVM](#llvm)
+- [Investing](#investing)
 - [Curated](#curated)
 - [Related](#related)
 
@@ -66,6 +67,9 @@
 
 ## LLVM
 - [LLVM weekly](http://llvmweekly.org) - Weekly newsletter covering developments in LLVM, Clang, and related projects.
+
+## Investing
+- [Capital Minded](http://capitalminded.com/) - Weekly intelligence brief on navigating the index fund age, understanding the economy, and hacking capitalism.
 
 ## Curated
 - [Useful linter web](http://usefulinterweb.com/) - The best links every day. ([Archive](http://usefulinterweb.com/archive))
