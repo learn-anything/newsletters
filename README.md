@@ -87,6 +87,7 @@
 
 - [Swift weekly brief](https://swiftweekly.github.io/issue-61/) - Community-driven weekly newsletter about what's happening in the Swift.
 - [This week in Swift](https://swiftnews.curated.co/) - List of the best Swift resources weekly. ([Archive](https://swiftnews.curated.co/issues))
+- [The Swift by Sundell Newsletter](https://www.swiftbysundell.com/newsletter)
 
 ## Web
 
