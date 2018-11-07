@@ -12,9 +12,10 @@
 - [Go](#go)
 - [Haskell](#haskell)
 - [Investing](#investing)
+- [iOS](#ios)
 - [Knowledge](#knowledge)
-- [LLVM](#llvm)
 - [Linux](#linux)
+- [LLVM](#llvm)
 - [Lua](#lua)
 - [Programming](#programming)
 - [Python](#python)
@@ -22,7 +23,6 @@
 - [Startups](#startups)
 - [Swift](#swift)
 - [Web](#web)
-- [iOS](#ios)
 
 ---
 
@@ -48,19 +48,23 @@
 
 - [Capital Minded](http://capitalminded.com/) - Weekly intelligence brief on navigating the index fund age, understanding the economy, and hacking capitalism.
 
+## iOS
+
+- [iOS Goodies](http://ios-goodies.com/) - Weekly iOS newsletter. ([Archive](http://ios-goodies.com/archive))
+
 ## Knowledge
 
 - [Gwern.net monthly newsletter](https://tinyletter.com/gwern) ([Archive](https://www.gwern.net/tags/newsletter))
 - [Quora digest](https://www.quora.com/topic/Quora-Weekly-Digest) - Quality depends on the topics you follow.
 
-## LLVM
-
-- [LLVM weekly](http://llvmweekly.org) - Weekly newsletter covering developments in LLVM, Clang, and related projects.
-
 ## Linux
 
 - [Cron.weekly](https://www.cronweekly.com/) - News & tools tailored to Linux sysadmins. [Archive](https://www.cronweekly.com/archives/)
 - [nixOS weekly](http://weekly.nixos.org/)
+
+## LLVM
+
+- [LLVM weekly](http://llvmweekly.org) - Weekly newsletter covering developments in LLVM, Clang, and related projects.
 
 ## Lua
 
@@ -87,16 +91,12 @@
 ## Swift
 
 - [Swift weekly brief](https://swiftweekly.github.io/issue-61/) - Community-driven weekly newsletter about what's happening in the Swift.
-- [This week in Swift](https://swiftnews.curated.co/) - List of the best Swift resources weekly. ([Archive](https://swiftnews.curated.co/issues))
 - [The Swift by Sundell Newsletter](https://www.swiftbysundell.com/newsletter)
+- [This week in Swift](https://swiftnews.curated.co/) - List of the best Swift resources weekly. ([Archive](https://swiftnews.curated.co/issues))
 
 ## Web
 
 - [Pony Foo weekly](https://ponyfoo.com/weekly) - Newsletter discussing interesting and trending topics around the web platform. ([Archive](https://ponyfoo.com/weekly/history))
-
-## iOS
-
-- [iOS Goodies](http://ios-goodies.com/) - Weekly iOS newsletter. ([Archive](http://ios-goodies.com/archive))
 
 ---
 
