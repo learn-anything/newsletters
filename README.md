@@ -98,6 +98,11 @@
 
 - [Pony Foo weekly](https://ponyfoo.com/weekly) - Newsletter discussing interesting and trending topics around the web platform. ([Archive](https://ponyfoo.com/weekly/history))
 
+## iOS
+
+- [iOS Goodies](http://ios-goodies.com/) - Weekly iOS newsletter. ([Archive](http://ios-goodies.com/archive))
+- [iOS Dev Weekly](https://iosdevweekly.com/) - Hand-picked round up of the best iOS development links every week. ([Archive](https://iosdevweekly.com/issues))
+
 ---
 
 [![CC0](https://img.shields.io/badge/license-CC0-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://creativecommons.org/publicdomain/zero/1.0/)
