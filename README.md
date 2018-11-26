@@ -102,6 +102,8 @@
 
 - [iOS Goodies](http://ios-goodies.com/) - Weekly iOS newsletter. ([Archive](http://ios-goodies.com/archive))
 - [iOS Dev Weekly](https://iosdevweekly.com/) - Hand-picked round up of the best iOS development links every week. ([Archive](https://iosdevweekly.com/issues))
+- [Indie iOS focus weekly](https://indieiosfocus.com/) - Curated by Chris Beshore and published every Thursday. ([Archive](https://indieiosfocus.com/issues))
+- [Swift Developments](https://andybargh.com/swiftdevelopments/)
 
 ---
 
