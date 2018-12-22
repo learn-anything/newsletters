@@ -19,6 +19,7 @@
 - [Lua](#lua)
 - [Programming](#programming)
 - [Python](#python)
+- [React](#react)
 - [Rust](#rust)
 - [Startups](#startups)
 - [Swift](#swift)
@@ -78,6 +79,10 @@
 
 - [Import python](http://importpython.com/newsletter/) - Insightful Articles, Tutorials, Projects, Videos, Tweets. ([Archive](http://importpython.com/newsletter/archive/))
 - [Python weekly](https://www.pythonweekly.com/) - Curated news, articles, new releases, jobs etc related to Python.
+
+## React
+
+- [This Week In React](https://this-week-in-react.org/) - Weekly coverage of interesting pull requests, discussions, and RFCs around React Core and React DOM.
 
 ## Rust
 
