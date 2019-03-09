@@ -8,7 +8,6 @@
 #### Contents
 
 - [AI](#ai)
-- [Curated](#curated)
 - [Go](#go)
 - [Haskell](#haskell)
 - [Investing](#investing)
@@ -108,6 +107,7 @@
 
 ## Other
 
+- [MIT Technology Review](https://go.technologyreview.com/newsletters) - Latest intelligence on emerging tech.
 - [Useful linter web](http://usefulinterweb.com/) - The best links every day. ([Archive](http://usefulinterweb.com/archive))
 
 ---
