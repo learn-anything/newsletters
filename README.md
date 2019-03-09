@@ -24,6 +24,8 @@
 - [Startups](#startups)
 - [Swift](#swift)
 - [Web](#web)
+- [iOS](#ios)
+- [Other](#other)
 
 ---
 
@@ -32,10 +34,6 @@
 - [Import AI](https://jack-clark.net/import-ai/) - Weekly newsletter about artificial intelligence. ([Archive](https://us13.campaign-archive.com/home/?u=67bd06787e84d73db24fb0aa5&id=6c9d98ff2c))
 - [The daily AI](http://thedaily.ai/) - Your Daily Dose of Artificial Intelligence.
 - [The wild week in AI](https://www.getrevue.co/profile/wildml) - Weekly AI & Deep Learning newsletter. ([Archive](https://www.getrevue.co/profile/wildml#archive))
-
-## Curated
-
-- [Useful linter web](http://usefulinterweb.com/) - The best links every day. ([Archive](http://usefulinterweb.com/archive))
 
 ## Go
 
@@ -50,8 +48,6 @@
 - [Capital Minded](http://capitalminded.com/) - Weekly intelligence brief on navigating the index fund age, understanding the economy, and hacking capitalism.
 
 ## iOS
-
-- [iOS Goodies](http://ios-goodies.com/) - Weekly iOS newsletter. ([Archive](http://ios-goodies.com/archive))
 
 ## Knowledge
 
@@ -109,6 +105,10 @@
 - [iOS Dev Weekly](https://iosdevweekly.com/) - Hand-picked round up of the best iOS development links every week. ([Archive](https://iosdevweekly.com/issues))
 - [Indie iOS focus weekly](https://indieiosfocus.com/) - Curated by Chris Beshore and published every Thursday. ([Archive](https://indieiosfocus.com/issues))
 - [Swift Developments](https://andybargh.com/swiftdevelopments/)
+
+## Other
+
+- [Useful linter web](http://usefulinterweb.com/) - The best links every day. ([Archive](http://usefulinterweb.com/archive))
 
 ---
 
