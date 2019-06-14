@@ -23,6 +23,7 @@
 - [Startups](#startups)
 - [Swift](#swift)
 - [Web](#web)
+- [GraphQL](#graphql)
 - [iOS](#ios)
 - [Other](#other)
 
@@ -98,6 +99,10 @@
 ## Web
 
 - [Pony Foo weekly](https://ponyfoo.com/weekly) - Newsletter discussing interesting and trending topics around the web platform. ([Archive](https://ponyfoo.com/weekly/history))
+
+## GraphQL
+
+- [GraphQL Weekly](https://www.graphqlweekly.com) - Weekly newsletter of the best news, articles and projects about GraphQL.
 
 ## iOS
 
