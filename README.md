@@ -70,6 +70,7 @@
 ## Programming
 
 - [DiscoverDev](https://www.discoverdev.io/) - Daily digest of the best engineering blogs from across the web. ([Archive](https://www.discoverdev.io/archive))
+- [Morning Cup of Coding](https://morningcupofcoding.com/) - Daily programming newsletter featuring long form technical articles of all fields of software engineering.
 
 ## Python
 
