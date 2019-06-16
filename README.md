@@ -116,6 +116,7 @@
 
 - [MIT Technology Review](https://go.technologyreview.com/newsletters) - Latest intelligence on emerging tech.
 - [Useful linter web](http://usefulinterweb.com/) - The best links every day. ([Archive](http://usefulinterweb.com/archive))
+- [Spatial Awareness](https://www.getrevue.co/profile/maps) - Regular editorial focused on the maps and the spatial community.
 
 ---
 
