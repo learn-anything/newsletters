@@ -71,6 +71,8 @@
 
 - [DiscoverDev](https://www.discoverdev.io/) - Daily digest of the best engineering blogs from across the web. ([Archive](https://www.discoverdev.io/archive))
 - [Morning Cup of Coding](https://morningcupofcoding.com/) - Daily programming newsletter featuring long form technical articles of all fields of software engineering.
+- [Better Dev](https://betterdev.link/) - Weekly programming newsletter that aims to improve programming knowledge general, no trending news, no how-to style article. ([Archive](https://betterdev.link/issues))
+
 
 ## Python
 
