@@ -23,6 +23,7 @@
 - [Rust](#rust)
 - [Startups](#startups)
 - [Swift](#swift)
+- [Racket](#racket)
 - [Web](#web)
 - [GraphQL](#graphql)
 - [iOS](#ios)
@@ -78,7 +79,6 @@
 - [Morning Cup of Coding](https://morningcupofcoding.com/) - Daily programming newsletter featuring long form technical articles of all fields of software engineering.
 - [Better Dev](https://betterdev.link/) - Weekly programming newsletter that aims to improve programming knowledge general, no trending news, no how-to style article. ([Archive](https://betterdev.link/issues))
 
-
 ## Python
 
 - [Import python](http://importpython.com/newsletter/) - Insightful Articles, Tutorials, Projects, Videos, Tweets. ([Archive](http://importpython.com/newsletter/archive/))
@@ -104,6 +104,10 @@
 - [The Swift by Sundell Newsletter](https://www.swiftbysundell.com/newsletter)
 - [This week in Swift](https://swiftnews.curated.co/) - List of the best Swift resources weekly. ([Archive](https://swiftnews.curated.co/issues))
 - [Swift for TensorFlow](https://www.s4tfnews.com/) - Weekly news about the Swift for Tensorflow project.
+
+## Racket
+
+- [Racket News](https://racket-news.com/)
 
 ## Web
 
