@@ -129,6 +129,7 @@
 - [MIT Technology Review](https://go.technologyreview.com/newsletters) - Latest intelligence on emerging tech.
 - [Useful linter web](http://usefulinterweb.com/) - The best links every day. ([Archive](http://usefulinterweb.com/archive))
 - [Spatial Awareness](https://www.getrevue.co/profile/maps) - Regular editorial focused on the maps and the spatial community.
+- [Maker Mind](https://makermind.nesslabs.com/) - Weekly newsletter at the intersection of neuroscience and entrepreneurship, with science-based tips to make the most of your brain.
 
 ---
 
