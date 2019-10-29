@@ -27,8 +27,6 @@
 - [iOS](#ios)
 - [Other](#other)
 
----
-
 ## AI
 
 - [Import AI](https://jack-clark.net/import-ai/) - Weekly newsletter about artificial intelligence. ([Archive](https://us13.campaign-archive.com/home/?u=67bd06787e84d73db24fb0aa5&id=6c9d98ff2c))
