@@ -83,6 +83,7 @@ _Please read [contribution guidelines](CONTRIBUTING.md#readme) before contributi
 
 - [This Week In React](https://this-week-in-react.org/) - Weekly coverage of interesting pull requests, discussions, and RFCs around React Core and React DOM.
 - [Top 3 React articles of the week in your inbox](https://tinyreact.email/)
+- [Aman's weekly dev newsletter](https://tinyletter.com/amanhimself/) - Weekly email update that includes a new blog post(s) on Node, React and React Native.
 
 ## Rust
 
