@@ -96,7 +96,7 @@ _Please read [contribution guidelines](CONTRIBUTING.md#readme) before contributi
 
 ## Swift
 
-- [Swift weekly brief](https://swiftweekly.github.io/issue-61/) - Community-driven weekly newsletter about what's happening in the Swift.
+- [Swift Weekly Brief](https://swiftweekly.github.io/) - Community-driven weekly newsletter about what's happening in Swift.
 - [The Swift by Sundell Newsletter](https://www.swiftbysundell.com/newsletter)
 - [This week in Swift](https://swiftnews.curated.co/) - List of the best Swift resources weekly. ([Archive](https://swiftnews.curated.co/issues))
 - [Swift for TensorFlow](https://www.s4tfnews.com/) - Weekly news about the Swift for Tensorflow project.
