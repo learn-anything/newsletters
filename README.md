@@ -6,6 +6,7 @@ _Please read [contribution guidelines](CONTRIBUTING.md#readme) before contributi
 
 - [AI](#ai)
 - [Blockchain](#blockchain)
+- [JavaScript](#javascript)
 - [Go](#go)
 - [Haskell](#haskell)
 - [Investing](#investing)
@@ -39,6 +40,10 @@ _Please read [contribution guidelines](CONTRIBUTING.md#readme) before contributi
 ## Go
 
 - [Golang Weekly](https://golangweekly.com) - Weekly newsletter about the Go programming language. ([Archive](https://golangweekly.com/issues))
+
+## JavaScript
+
+- [Harry's Newsletter](https://tinyletter.com/hswolff) - Weekly update that contains all the latest and greatest JavaScript and frontend news. ([Archive](https://tinyletter.com/hswolff/archive))
 
 ## Haskell
 
