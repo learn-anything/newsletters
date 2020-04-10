@@ -131,6 +131,7 @@ _Please read [contribution guidelines](CONTRIBUTING.md#readme) before contributi
 - [Useful linter web](http://usefulinterweb.com/) - The best links every day. ([Archive](http://usefulinterweb.com/archive))
 - [Spatial Awareness](https://www.getrevue.co/profile/maps) - Regular editorial focused on the maps and the spatial community.
 - [Maker Mind](https://makermind.nesslabs.com/) - Weekly newsletter at the intersection of neuroscience and entrepreneurship, with science-based tips to make the most of your brain.
+- [Open Source Weekly](https://opensourceweekly.org/) - Weekly letter of the best projects, people and articles on open source, curated by hand.
 
 [![CC0](https://img.shields.io/badge/license-CC0-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://creativecommons.org/publicdomain/zero/1.0/)
 [![Lists](https://img.shields.io/badge/-more%20lists-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://github.com/learn-anything/curated-lists#readme)
