@@ -32,6 +32,7 @@ _Please read [contribution guidelines](CONTRIBUTING.md#readme) before contributi
 - [Import AI](https://jack-clark.net/import-ai/) - Weekly newsletter about artificial intelligence. ([Archive](https://us13.campaign-archive.com/home/?u=67bd06787e84d73db24fb0aa5&id=6c9d98ff2c))
 - [The daily AI](http://thedaily.ai/) - Your Daily Dose of Artificial Intelligence.
 - [The wild week in AI](https://www.getrevue.co/profile/wildml) - Weekly AI & Deep Learning newsletter. ([Archive](https://www.getrevue.co/profile/wildml#archive))
+- [The Batch](https://www.deeplearning.ai/thebatch/) - Presents the most important AI events and perspective in a curated, easy-to-read report.
 
 ## Blockchain
 
