@@ -37,6 +37,7 @@ _Please read [contribution guidelines](CONTRIBUTING.md#readme) before contributi
 ## Blockchain
 
 - [Build Blockchain](https://www.buildblockchain.tech/newsletter) - Blockchain tech without the bull— a weekly dose of blockchain reality with a heavy bias toward the technical.
+- [Our Network](https://ournetwork.substack.com/) - Weekly crypto analytics insights.
 
 ## Go
 
