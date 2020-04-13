@@ -100,6 +100,7 @@ _Please read [contribution guidelines](CONTRIBUTING.md#readme) before contributi
 
 - [AngelList Weekly](https://angel.co/newsletters) - The best of the startup world, curated weekly.
 - [Startup Curated](https://startup.curated.co/) - Startup community’s newsletter with the best content from and for founders. ([Archive](https://startup.curated.co/issues))
+- [Forward Thinking Founders](https://forwardthinking.substack.com/)
 
 ## Swift
 
