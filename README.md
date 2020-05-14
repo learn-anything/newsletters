@@ -138,6 +138,7 @@ _Please read [contribution guidelines](CONTRIBUTING.md#readme) before contributi
 - [Everybody Letter](https://letter.substack.com/) - Learnings from the past, thinking ahead.
 - [Out Of Pocket](https://outofpocket.substack.com/) - Weekly comedic deep-dive and analysis into the rabbithole of US health care system.
 - [How It Actually Works](https://www.howitactuallyworks.com/)
+- [Dense Discovery](https://www.densediscovery.com/index.php) - Weekly newsletter helping you be productive, feel inspired, and think critically.
 
 [![CC0](https://img.shields.io/badge/license-CC0-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://creativecommons.org/publicdomain/zero/1.0/)
 [![Lists](https://img.shields.io/badge/-more%20lists-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://github.com/learn-anything/curated-lists#readme)
