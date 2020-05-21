@@ -140,6 +140,7 @@ _Please read [contribution guidelines](CONTRIBUTING.md#readme) before contributi
 - [How It Actually Works](https://www.howitactuallyworks.com/)
 - [Dense Discovery](https://www.densediscovery.com/index.php) - Weekly newsletter helping you be productive, feel inspired, and think critically.
 - [Morning Brew](https://www.morningbrew.com/) - Daily email newsletter covering the latest news from Wall St. to Silicon Valley.
+- [Stately](https://www.stately.dev/) - Keep up to date on the latest state insights from all areas of technology. From old research papers to new ideas, explore and discuss concepts and code for improving the way we manage state.
 
 [![CC0](https://img.shields.io/badge/license-CC0-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://creativecommons.org/publicdomain/zero/1.0/)
 [![Lists](https://img.shields.io/badge/-more%20lists-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://github.com/learn-anything/curated-lists#readme)
