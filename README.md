@@ -142,6 +142,7 @@ _Please read [contribution guidelines](CONTRIBUTING.md#readme) before contributi
 - [Morning Brew](https://www.morningbrew.com/) - Daily email newsletter covering the latest news from Wall St. to Silicon Valley.
 - [Stately](https://www.stately.dev/) - Keep up to date on the latest state insights from all areas of technology. From old research papers to new ideas, explore and discuss concepts and code for improving the way we manage state.
 - [Superorganizers](https://superorganizers.substack.com/) - Investigating how the smartest people in the world organize knowledge to do their best work.
+- [Femstreet](https://femstreet.substack.com/) - Sends out a weekly digest of timely, must-read posts by female investors and operators.
 
 [![CC0](https://img.shields.io/badge/license-CC0-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://creativecommons.org/publicdomain/zero/1.0/)
 [![Lists](https://img.shields.io/badge/-more%20lists-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://github.com/learn-anything/curated-lists#readme)
