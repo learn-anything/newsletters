@@ -23,6 +23,7 @@ _Please read [contribution guidelines](CONTRIBUTING.md#readme) before contributi
 - [Swift](#swift)
 - [Racket](#racket)
 - [Web](#web)
+- [WebAssembly](#webassembly)
 - [GraphQL](#graphql)
 - [iOS](#ios)
 - [Other](#other)
@@ -116,6 +117,10 @@ _Please read [contribution guidelines](CONTRIBUTING.md#readme) before contributi
 ## Web
 
 - [Pony Foo weekly](https://ponyfoo.com/weekly) - Newsletter discussing interesting and trending topics around the web platform. ([Archive](https://ponyfoo.com/weekly/history))
+
+## WebAssembly
+
+- [WebAssembly Weekly](https://wasmweekly.news/) - Community-driven weekly newsletter about WebAssembly.
 
 ## GraphQL
 
