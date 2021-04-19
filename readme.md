@@ -24,6 +24,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [WebAssembly](#webassembly)
 - [GraphQL](#graphql)
 - [iOS](#ios)
+- [Marketing](#marketing)
 - [Other](#other)
 
 ## AI
@@ -130,6 +131,11 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [iOS Dev Weekly](https://iosdevweekly.com/) - Hand-picked round up of the best iOS development links every week. ([Archive](https://iosdevweekly.com/issues))
 - [Indie iOS focus weekly](https://indieiosfocus.com/) - Curated by Chris Beshore and published every Thursday. ([Archive](https://indieiosfocus.com/issues))
 - [Swift Developments](https://andybargh.com/swiftdevelopments/)
+
+## Marketing
+
+- [tl;dr Marleting](https://tldrmarketing.com) - Daily news and trends about digital marketing without all the fluff.
+
 
 ## Other
 
