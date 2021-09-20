@@ -155,6 +155,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [GWERN](https://gwern.substack.com/)
 - [A Byte of Coding](https://abyteofcoding.com/)
 - [Creative Boom](https://www.creativeboom.com/newsletter/)
+- [Flutter Croissants](https://flutter-croissants.com/) - Receive every Monday all the news about Flutter and the world of mobility.
 
 [![CC4](https://img.shields.io/badge/license-CC4-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://creativecommons.org/licenses/by/4.0/)
 [![Lists](https://img.shields.io/badge/-more%20lists-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://github.com/learn-anything/curated-lists)
