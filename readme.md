@@ -16,6 +16,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [Programming](#programming)
 - [Python](#python)
 - [React](#react)
+- [Ruby](#ruby)
 - [Rust](#rust)
 - [Startups](#startups)
 - [Swift](#swift)
@@ -95,6 +96,10 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 ## Rust
 
 - [This week in rust](https://this-week-in-rust.org/) - Handpicked Rust updates. ([Archive](https://this-week-in-rust.org/blog/archives/index.html))
+
+## Ruby
+
+- [Ruby weekly](https://rubyweekly.com/) - Weekly e-mail round-up of Ruby news and articles.
 
 ## Startups
 
