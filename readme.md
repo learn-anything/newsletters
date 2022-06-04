@@ -144,6 +144,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 
 ## Other
 
+- [Figures](https://joinfigures.com/) - Receive high-paying jobs based on your minimum salary requirement.
 - [MIT Technology Review](https://go.technologyreview.com/newsletters) - Latest intelligence on emerging tech.
 - [Useful linter web](http://usefulinterweb.com/) - The best links every day. ([Archive](http://usefulinterweb.com/archive))
 - [Spatial Awareness](https://www.getrevue.co/profile/maps) - Regular editorial focused on the maps and the spatial community.
