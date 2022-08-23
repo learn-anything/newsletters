@@ -18,6 +18,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [React](#react)
 - [Ruby](#ruby)
 - [Rust](#rust)
+- [Security](#security)
 - [Startups](#startups)
 - [Swift](#swift)
 - [Racket](#racket)
@@ -100,6 +101,10 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 ## Ruby
 
 - [Ruby weekly](https://rubyweekly.com/) - Weekly e-mail round-up of Ruby news and articles.
+
+## Security
+
+- [Shift Security Left](https://shift-security-left.curated.co/) - Free biweekly newsletter for security-aware developers covering application security, secure architecture, DevSecOps, cryptography, incidents, etc. that can be useful for builders and (to a lesser extent) for breakers. Get a deeper understanding of causes for security vulnerabilities, designing defences, inventing and implementing security controls—with Felix, an imaginary mascot and a security engineer at [@cossacklabs](https://twitter.com/cossacklabs). ([Archive](https://shift-security-left.curated.co/issues))
 
 ## Startups
 
