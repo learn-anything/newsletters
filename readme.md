@@ -139,6 +139,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 ## Marketing
 
 - [tl;dr Marleting](https://tldrmarketing.com) - Daily news and trends about digital marketing without all the fluff.
+- [SaaS Bites](https://saasbites.substack.com) - Latest news, tips, and tools for SaaS growth, marketing, and product management
 
 
 ## Other
