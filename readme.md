@@ -15,8 +15,8 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [Lua](#lua)
 - [Programming](#programming)
 - [Python](#python)
-- [React](#react)
 - [Ruby](#ruby)
+- [React](#react)
 - [Rust](#rust)
 - [Startups](#startups)
 - [Swift](#swift)
@@ -95,6 +95,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 ## Rust
 
 - [This week in rust](https://this-week-in-rust.org/) - Handpicked Rust updates. ([Archive](https://this-week-in-rust.org/blog/archives/index.html))
+- [Rust Bytes](https://weeklyrust.substack.com/) - A curated fun weekly newsletter keeping you informed about all things noteworthy in the world of The Rust Programming Language.
 
 ## Ruby
 
