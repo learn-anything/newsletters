@@ -26,6 +26,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [GraphQL](#graphql)
 - [iOS](#ios)
 - [Marketing](#marketing)
+- [System Design](#system-design)
 - [Other](#other)
 
 ## AI
@@ -141,6 +142,10 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 
 - [tl;dr Marleting](https://tldrmarketing.com) - Daily news and trends about digital marketing without all the fluff.
 
+## System Design
+
+- [Limitless System Design](https://www.linkedin.com/newsletters/limitless-system-design-7335259589879197700/) - Newsletter for engineers who refuse to accept “good enough” architecture.
+- [ByteByteGo](https://blog.bytebytego.com/) - Explain complex systems with simple terms, from the authors of the best-selling system design book series
 
 ## Other
 
