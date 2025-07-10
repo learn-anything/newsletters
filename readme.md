@@ -141,6 +141,8 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 ## Marketing
 
 - [tl;dr Marleting](https://tldrmarketing.com) - Daily news and trends about digital marketing without all the fluff.
+- [The Marketing Newsletter](http://themarketingnewsletter.org) - Ideas to help marketers and creators grow faster and work smarter
+
 
 ## System Design
 
